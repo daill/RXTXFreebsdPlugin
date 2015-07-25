@@ -6,4 +6,3 @@ Bundle-Version: 1.0.0.fbsd
 Bundle-ClassPath: lib/RXTXcomm.jar
 Export-Package: gnu.io;version="1.0.0.fbsd"
 Import-Package: gnu.io;version="1.0.0.fbsd"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
